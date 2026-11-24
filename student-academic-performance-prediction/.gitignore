@@ -1,0 +1,7 @@
+.venv/
+__pycache__/
+*.py[cod]
+.DS_Store
+# Downloaded raw dataset files (may be added to GitHub deliberately if required)
+data/raw/*.zip
+data/raw/student-mat.csv
